@@ -51,6 +51,7 @@ input {
   border: 1px solid hsl(0, 0%, 86%);
   border-radius: 5px;
   color: hsl(0, 1%, 44%);
+  outline: none;
 }
 
 .hr-icon {
@@ -110,7 +111,7 @@ hr {
   .container {
     background-color: hsl(0, 0%, 100%);
     width: 300px;
-    height: fit-content;
+    height: 300px;
     padding: 35px 10px;
     border-radius: 15px 15px 30% 15px;
     position: absolute;
